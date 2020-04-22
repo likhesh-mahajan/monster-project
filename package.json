@@ -2,7 +2,7 @@
   "name": "monsterrolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://likhesh-mahajan.github.io/monster-project.git",
+  "homepage": "https://likhesh-mahajan.github.io/monster-project",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
