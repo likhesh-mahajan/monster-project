@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/likhesh-mahajan/monster-project.git/static/css/main.aa86c932.chunk.css",
+    "main.js": "/likhesh-mahajan/monster-project.git/static/js/main.615365aa.chunk.js",
+    "main.js.map": "/likhesh-mahajan/monster-project.git/static/js/main.615365aa.chunk.js.map",
+    "runtime-main.js": "/likhesh-mahajan/monster-project.git/static/js/runtime-main.cb543989.js",
+    "runtime-main.js.map": "/likhesh-mahajan/monster-project.git/static/js/runtime-main.cb543989.js.map",
+    "static/js/2.dd5b5b02.chunk.js": "/likhesh-mahajan/monster-project.git/static/js/2.dd5b5b02.chunk.js",
+    "static/js/2.dd5b5b02.chunk.js.map": "/likhesh-mahajan/monster-project.git/static/js/2.dd5b5b02.chunk.js.map",
+    "index.html": "/likhesh-mahajan/monster-project.git/index.html",
+    "precache-manifest.1c4e8396f73072c5668abe3e1cb2f843.js": "/likhesh-mahajan/monster-project.git/precache-manifest.1c4e8396f73072c5668abe3e1cb2f843.js",
+    "service-worker.js": "/likhesh-mahajan/monster-project.git/service-worker.js",
+    "static/css/main.aa86c932.chunk.css.map": "/likhesh-mahajan/monster-project.git/static/css/main.aa86c932.chunk.css.map",
+    "static/js/2.dd5b5b02.chunk.js.LICENSE.txt": "/likhesh-mahajan/monster-project.git/static/js/2.dd5b5b02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb543989.js",
+    "static/js/2.dd5b5b02.chunk.js",
+    "static/css/main.aa86c932.chunk.css",
+    "static/js/main.615365aa.chunk.js"
+  ]
+}
